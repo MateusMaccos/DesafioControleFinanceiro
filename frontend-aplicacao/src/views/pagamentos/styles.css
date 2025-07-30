@@ -1,0 +1,19 @@
+.error {
+  color: red;
+  padding-bottom: 1rem;
+}
+
+.acoes {
+  cursor: pointer;
+  color: #0070f3;
+}
+
+.campo-formulario {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.tabela-pagamentos {
+  padding-top: 1rem;
+}
